@@ -1,5 +1,3 @@
-#v-nails.github.io
-<!DOCTYPE html><html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -57,10 +55,17 @@
     </style>
 </head>
 <body>
-    <header>V-Nails - Luxury Nail Care</header>
+    <header>
+        <h1>V-Nails - Luxury Nail Care<h1>
+<nav>
+    <a href="nailabout.html">about</a>
+    <a href="nailcontact.html">contact</a>
+    <a href="nailmanicure.html">manicure</a>
+</nav>
+      </header>
     <div class="container">
         <div class="card">
-            <img src="manicure.jpg" alt="Manicure Service">
+            <img src="nail_1.jpg" alt="Manicure Service">
             <h2>Manicure</h2>
             <p>Perfectly polished nails with our luxury manicure services.</p>
         </div>
@@ -70,11 +75,10 @@
             <p>Indulge in a relaxing pedicure for soft and elegant feet.</p>
         </div>
         <div class="card">
-            <img src="nailart.jpg" alt="Nail Art">
+            <img src="nail_7.jpg" alt="Nail Art">
             <h2>Nail Art</h2>
             <p>Stunning designs to elevate your nails to the next level.</p>
         </div>
     </div>
     <footer>&copy; 2025 V-Nails | Luxury Nail Services</footer>
 </body>
-</html>
