@@ -1,0 +1,20 @@
+{ margin: 0; padding: 0; box-sizing: border-box; }
+
+
+body { font-family: 'Arial', sans-serif; background-color: #fce4ec; /* Soft pastel pink */ color: #333; line-height: 1.6; }
+
+header { background-color: #ffccd5; /* Light pink */ padding: 20px; text-align: center; color: #fff; font-size: 2rem; font-weight: bold; }
+
+.container { width: 60%; margin: 40px auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
+
+h2 { text-align: center; color: #d81b60; }
+
+form { display: flex; flex-direction: column; gap: 15px; padding: 20px; }
+
+label { font-weight: bold; }
+
+input, textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+
+button { background: #d81b60; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer; transition: 0.3s; }
+
+button:hover { background: #ad1457; }
