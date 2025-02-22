@@ -30,19 +30,13 @@
             gap: 20px;
             padding: 40px;
         }
-a {
+.links {
     color: gold;
     text-decoration: none;
     font-weight: bold;
     font-size: 18px;
 }
-
-a:hover {
-    text-decoration: underline;
-    color: #ffd700;
-}
-
-        .card {
+    .card {
             background: linear-gradient(135deg, #f8bbd0, #fce4ec);
             border: 2px solid #f48fb1;
             border-radius: 15px;
@@ -79,11 +73,6 @@ a:hover {
             <img src="nail_1.jpg" alt="Manicure Service">
             <h2>Manicure</h2>
             <p>Perfectly polished nails with our luxury manicure services.</p>
-        </div>
-        <div class="card">
-            <img src="pedicure.jpg" alt="Pedicure Service">
-            <h2>Pedicure</h2>
-            <p>Indulge in a relaxing pedicure for soft and elegant feet.</p>
         </div>
         <div class="card">
             <img src="nail_7.jpg" alt="Nail Art">
