@@ -30,6 +30,18 @@
             gap: 20px;
             padding: 40px;
         }
+a {
+    color: gold;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ffd700;
+}
+
         .card {
             background: linear-gradient(135deg, #f8bbd0, #fce4ec);
             border: 2px solid #f48fb1;
@@ -62,7 +74,6 @@
     <a href="nailcontact.html">contact</a>
     <a href="nailmanicure.html">manicure</a>
 </nav>
-      </header>
     <div class="container">
         <div class="card">
             <img src="nail_1.jpg" alt="Manicure Service">
@@ -81,4 +92,3 @@
         </div>
     </div>
     <footer>&copy; 2025 V-Nails | Luxury Nail Services</footer>
-</body>
